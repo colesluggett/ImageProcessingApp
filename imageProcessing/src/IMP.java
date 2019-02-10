@@ -1,5 +1,6 @@
 /*
- *Hunter Lloyd
+ *Hunter Lloyd created App window
+ *Cole Sluggett created all functions
  * Copyrite.......I wrote, ask permission if you want to use it outside of class.
  */
 
